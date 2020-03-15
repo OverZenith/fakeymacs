@@ -187,7 +187,10 @@ def configure(keymap):
                             "mintty.exe",             # mintty
                             "Cmder.exe",              # Cmder
                             "ConEmu.exe",             # ConEmu
-                            "ConEmu64.exe",           # ConEmu
+                            "ConEmu64.exe",           # 
+                            "emacs.exe",              # Emacs
+                            "emacs-X11.exe",          # Emacs
+                            "emacs-w32.exe",          # Emacs
                             "gvim.exe",               # GVim
                             "Code.exe",               # VSCode
                             "xyzzy.exe",              # xyzzy
